@@ -2,4 +2,4 @@
 taking notes on Elzero Github course
 
 
-# Courses notes
+# Course notes
